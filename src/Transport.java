@@ -73,7 +73,7 @@ interface Transport {
 
     public class rockets {
         public static void vostok1() {
-            System.out.println("12 апреля 1961 года Юрий гагарин совршил первый полет в космос на корабле Восток-1");
+            System.out.println("12 апреля 1961 года Юрий гагарин совршил первый полет в космос на корабле Восток-1.");
         }
 
     }
