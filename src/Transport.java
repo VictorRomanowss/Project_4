@@ -54,7 +54,7 @@ interface Transport {
 
     public class Aircraft {
         public void tu154() {
-            System.out.println("реактивный самолет");
+            System.out.println("Реактивный самолет ТУ-154");
         }
     }
 
@@ -73,7 +73,7 @@ interface Transport {
 
     public class rockets {
         public static void vostok1() {
-            System.out.println("12 апреля 1961 года Юрий гагарин совршил первый полет в космос на корабле Восток-1.");
+            System.out.println("12 апреля 1961 года Юрий Гагарин совршил первый полет в космос на корабле Восток-1.");
         }
 
     }
